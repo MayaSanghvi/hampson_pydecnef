@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# Data files (PyDecNef-specific — adjust as needed)
+*.nii
+*.nii.gz
+*.dcm
+*.npy
+*.pkl
+*.mat
+2_data/
+logs/
+
+# OS / editor
+.DS_Store
+.vscode/
+*.code-workspace
+
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj.user/
