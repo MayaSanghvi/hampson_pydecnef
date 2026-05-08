@@ -7,8 +7,6 @@
 # LICENCE: GNU General Public License v3.0
 ############################################################################
 
-# testing !!! yippee
-
 """
 This script is designed to recieve the behavior log files from the client side.
 
